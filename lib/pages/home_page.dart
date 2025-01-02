@@ -61,7 +61,7 @@ class _HomePageState extends State<HomePage> {
                 child: const Row(
                   children: [
                     Icon(Icons.search, color: Colors.black),
-                    SizedBox(width: 5),
+                    SizedBox(width: 12),
                     Text('Search', style: TextStyle(color: Colors.black)),
                   ],
                 ),
